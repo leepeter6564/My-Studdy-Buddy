@@ -1,0 +1,54 @@
+/**
+ * styles.css
+ *
+ * Computer Science 50
+ * Problem Set 7
+ *
+ * Global CSS.
+ */
+
+.container
+{
+    /* center contents */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+#top .nav
+{
+    /* center navigation pills */
+    display: inline-block;
+    
+}
+
+#middle .form-control
+{
+    /* center form controls */
+    display: inline-block;
+
+    /* override Bootstrap's 100% width for form controls */
+    width: auto;
+}
+
+#bottom
+{
+    /* shrink bottom's font size */
+    font-size: smaller;
+
+    /* surround with whitespace */
+    margin: 20px;
+}
+
+
+fieldset {
+        background-color: #d1d1e0;
+	    color:  #000000;
+	    font-weight: bold;
+	    padding: 10px;
+	    -moz-border-radius: 5px;
+	    -webkit-border-radius: 5px; 
+        margin: auto;
+        width: 40%;
+    }
