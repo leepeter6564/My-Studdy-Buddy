@@ -11,4 +11,7 @@ Users may also indicate that they are interested in or going to a Studdy Buddy e
 
 The MySQL Tables are not displayed in this repository.
 
+This project is built upon the foundations of Problem-set (pset) 7 of CS50 Fall 2015.
+Code that was given by the pset is indicated as such.
+
 Project by Peter Lee and Kristen Fang, Harvard College
