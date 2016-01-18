@@ -10,3 +10,5 @@ Students may also make their own posts which will be visible to others.
 Users may also indicate that they are interested in or going to a Studdy Buddy event in the post. The list of people who have indicated that they are interested or going to a certain event is visible to all users.
 
 The MySQL Tables are not displayed in this repository.
+
+Project by Peter Lee and Kristen Fang, Harvard College
