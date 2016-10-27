@@ -1,5 +1,4 @@
 # My-Studdy-Buddy
-CS50 Final Project
 
 My Studdy Buddy is a website that students can use to find other people to study with on a certain subject at a certain time/location.
 
@@ -14,4 +13,4 @@ The MySQL Tables are not displayed in this repository.
 This project is built upon the foundations of Problem-set (pset) 7 of CS50 Fall 2015.
 Code that was given by the pset is indicated as such.
 
-Project by Peter Lee and Kristen Fang, Harvard College
+Project by Peter Seung Min Lee and Kristen Fang, Harvard College
